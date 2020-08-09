@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using VideoRental.Models;
 using System.ComponentModel.DataAnnotations;
 
